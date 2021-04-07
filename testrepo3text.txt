@@ -1,0 +1,3 @@
+Hello. This is the 3rd Test Repo. 
+This is a text file created to be in TestRepo3.
+Cheers.
